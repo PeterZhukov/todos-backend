@@ -1,17 +1,27 @@
 Клонирование:
+
 git clone https://github.com/PeterZhukov/todos-backend.git todos-backend
 
 затем перейти в папку
 
 cd todos-backend
 
+
+
+
 Установка пакетов npm:
 
 не требуется
 
+
+
+
 Запуск:
 
 PORT=5003 node index.js
+
+
+
 
 Получение всех todo:
 
